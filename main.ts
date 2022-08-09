@@ -1,6 +1,6 @@
 import { Plugin } from "obsidian"
 
-export default class ExamplePlugin extends Plugin {
+export default class JustificationPlugin extends Plugin {
 	async onload() {
 	}
 }

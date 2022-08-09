@@ -1,9 +1,9 @@
 {
 	"id": "obsidian-justification",
 	"name": "Justification",
-	"version": "1.0.1",
+	"version": "1.0.0",
 	"minAppVersion": "0.12.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
+	"description": "Full justification of text rendering in both Editor and Preview.",
 	"author": "John Leen",
 	"authorUrl": "https://github.com/jleen/",
 	"isDesktopOnly": false
