@@ -1,4 +1,7 @@
-/* Sets all the text color to red! */
-body {
-    color: red;
+.markdown-source-view.mod-cm6 .cm-line {
+    text-align: justify;
+}
+
+.markdown-preview-view p {
+	text-align: justify;
 }
